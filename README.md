@@ -17,8 +17,8 @@
 </div>
 
 #
+# Proyectos
 
- <p style="font-size: 40px;">Proyectos</p>
 <div>
 <h2 style="font-family: cursive;">◉<b><i> Healthy-Life</i></b></h2>
 <p>Es una App informativa de Recetas y Dietas, falta el deploy</p>
