@@ -46,6 +46,6 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <a href="https://www.linkedin.com/in/ezequiel-sosa-475150248/"><img width='50' src='https://static-00.iconduck.com/assets.00/linkedin-icon-256x256-lqsaztdg.png'/></a>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <a href="#"><img width='50' src='https://cdn-icons-png.flaticon.com/512/3135/3135800.png'/></a>
+  <a href="https://drive.google.com/u/0/uc?id=199TAB95n-AKumZiXN2Tzw8oY_9qz427O&export=download"><img width='50' src='https://cdn-icons-png.flaticon.com/512/3135/3135800.png'/></a>
 </div>
 
