@@ -35,8 +35,9 @@
 </div>
  <div>
 <h2 style="font-family: cursive;">◉<b><i> Portfolio</i></b></h2>
-<p>Trabajando en Ello</p>
    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+ <a href="https://github.com/000EZE000/portfolio"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://ezequiel-sosa.vercel.app/"><img  width='50' src='https://www.drupal.org/files/project-images/icon-deploy.png'/></a>
+ <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deploy</h3>
 </div>
   <hr />
   <div align="center">
