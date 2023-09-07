@@ -1,6 +1,6 @@
 # Bienvenido a mi GitHub 👋
 
-<h2>Hola mi Nombre es <b>Ezequiel</b> y soy full stack developer</h2>
+<h2>Hola mi Nombre es <b>Ezequiel</b> y soy Back end developer</h2>
 
 #  
 ### Te invito a que le eches una hojeada a mi GitHub, cualquier cosita o un feedback que me quieras dar, te dejo abajo los link de contacto!!
