@@ -1,51 +1,30 @@
-# Bienvenido a mi GitHub 👋
+ [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://joseceballos-portafolio.com)
 
-<h2>Hola mi Nombre es <b>Ezequiel</b> y soy Back-end developer</h2>
+<h1 align="center">Hola!,Soy Ezequiel Sosa</h1>
+<h3 align="center">Desarrollador Backend</h3>
 
-#  
-### Te invito a que le eches una hojeada a mi GitHub, cualquier cosita o un feedback que me quieras dar, te dejo abajo los link de contacto!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=000EZE000&label=Profile%20views&color=0e75b6&style=flat" alt="ezequiel" /> </p>
 
- 
-<div align="center" style="color:gray;">
-  <h2>🧑‍💻 Tecnologias con las que estoy trabajando 🧑‍💻 </h2>
-     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img src='./image/slader2.png'/>
-  </div>
-<div align="center">
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-</div>
+- 🔭 Actualmente estoy dedicando mis tiempos a profundizar más en *AWS y Typescript*
 
-#
-# Proyectos
+- 👨‍💻Podrán visualizar algunos de mis proyectos en: [https://ezequiel-sosa.vercel.app](https://ezequiel-sosa.vercel.app)
 
-<div>
-<h2 style="font-family: cursive;">◉<b><i> Healthy-Life</i></b></h2>
-<p>Es una App informativa de Recetas y Dietas, falta el deploy</p>
-   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
- <a href="https://github.com/000EZE000/Healthy-Life"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
- <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo</h3>
- </div>
- <div>
-<h2 style="font-family: cursive;">◉<b><i> Sirun Patisserie</i></b></h2>
-<p>E-commerce orientado a la pasteleria y Panaderia</p>
-   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
- <a href="https://github.com/proyectofinal30a/App-Sirun-Final-Project"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://sirunnpatisserie.vercel.app/"><img  width='50' src='https://www.drupal.org/files/project-images/icon-deploy.png'/></a>
- <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deploy</h3>
-</div>
- <div>
-<h2 style="font-family: cursive;">◉<b><i> Portfolio</i></b></h2>
-   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
- <a href="https://github.com/000EZE000/portfolio"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://ezequiel-sosa.vercel.app/"><img  width='50' src='https://www.drupal.org/files/project-images/icon-deploy.png'/></a>
- <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deploy</h3>
-</div>
-  <hr />
-  <div align="center">
-  <h2>Contacto</h2>
-  <a href="mailto:ezequiel.ignacio.sosa@gmail.com"><img  width='50' src='https://cdn-icons-png.flaticon.com/512/281/281769.png'/></a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <a href="https://www.linkedin.com/in/ezequiel-sosa-475150248/"><img width='50' src='https://static-00.iconduck.com/assets.00/linkedin-icon-256x256-lqsaztdg.png'/></a>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <a href="https://drive.google.com/u/0/uc?id=199TAB95n-AKumZiXN2Tzw8oY_9qz427O&export=download"><img width='50' src='https://cdn-icons-png.flaticon.com/512/3135/3135800.png'/></a>
-</div>
+- 💬 Pueden hacerme preguntas sobre **las tecnologías que he utilizado.**
+
+- 📫 Pueden también contactarse conmigo a través de mi g-mail: ****
+
+<h3 align="left">Contáctame en:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ezequiel-sosa-475150248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-sosa-475150248" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Lenguajes y Herramientas:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/256/919/919825.png" alt="node" width="40" height="40"/> 
+  <img src="https://cdn-1.webcatalog.io/catalog/aws-console/aws-console-icon-filled-256.png" alt="aws" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
 
