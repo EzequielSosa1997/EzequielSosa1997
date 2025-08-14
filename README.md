@@ -11,7 +11,6 @@
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente me encuentro profundizando en **AWS** y **TypeScript**.  
-- 👨‍💻 Algunos de mis proyectos los pueden encontrar en [**mi portafolio**](https://ezequiel-sosa.vercel.app).  
 - 💬 Me pueden preguntar sobre **las tecnologías que utilizo** y buenas prácticas en desarrollo backend.  
 - 📫 Contacto: **[mi correo aquí]**  
 
