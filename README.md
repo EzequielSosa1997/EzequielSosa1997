@@ -12,7 +12,7 @@
 ### 🚀 Sobre mí
 - 🔭 Actualmente me encuentro profundizando en **AWS** y **TypeScript**.  
 - 💬 Me pueden preguntar sobre **las tecnologías que utilizo** y buenas prácticas en desarrollo backend.  
-- 📫 Contacto: **[mi correo aquí]**  
+- 📫 Contacto: ezequiel.ignacio.sosa@gmail.com 
 
 ---
 
